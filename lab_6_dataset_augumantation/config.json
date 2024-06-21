@@ -1,0 +1,16 @@
+{
+    "path" : "audio/",
+    "testing_list" : "files.csv",
+    "augment_chance" : 1,
+    "noise_augment" : 1,
+    "noise_augment_chance" : 1,
+    "time_augment" : 1,
+    "time_augment_chance" : 1,
+    "speed_augment" : 1,
+    "speed_augment_chance" : 1,
+    "volume_augment" : 1,
+    "volume_augment_chance" : 1,
+    "gaussian_noise_augment_chance" : 1,
+    "FRAME_SIZE" : 1024,
+    "HOP_SIZE" : 512
+}

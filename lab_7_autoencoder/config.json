@@ -1,0 +1,9 @@
+{
+    "path" : "datasets/microsoft/",
+    "testing_list" : "test_files_microsoft.csv",
+    "noise_augment" : 1,
+    "noise_augment_chance" : 1,
+    "gaussian_noise_augment_chance" : 1,
+    "FRAME_SIZE" : 512,
+    "HOP_SIZE" : 128
+}
